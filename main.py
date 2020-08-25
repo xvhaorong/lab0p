@@ -6,6 +6,6 @@ age = input("Enter your age: ")
 age = int(age)+1
 #print(age + 1)
 
-print("you will be " + str(age)+ " next year." )
+print("You will be " + str(age)+ " next year." )
 
 #print(f"I am {age+1} next year")
